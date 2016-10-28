@@ -3,6 +3,9 @@
 ;; Copyright (C) 2016  Jakob Lind
 
 ;; Author: Jakob Lind <karl.jakob.lind@gmail.com>
+;; URL: https://github.com/jakoblind/js2r-es6
+;; Package-Requires: ((js2-refactor "0.8.0"))
+;; Version: 1.0
 ;; Keywords: tools
 
 ;; This program is free software; you can redistribute it and/or modify
