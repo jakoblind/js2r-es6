@@ -2,7 +2,7 @@
 An extension to [js2-refactor](https://github.com/magnars/js2-refactor.el) with ES6 features. 
 
 ## Introduction
-These are ES6 specific refactorings which are not suited for the original `js2-refactoring` package according to its maintainers (I have no opinion on where it should belong). Therefore I decided to create this package, which is an extension to `js2-refactoring` package with ES6 refactorings.
+These are ES6 specific refactorings which are not suited for the original `js2-refactor` package.
 
 ## Installation
 Require `js2r-es6` right after the the `js2-refactor` require, like this:
